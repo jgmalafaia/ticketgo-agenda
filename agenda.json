@@ -1,33 +1,7 @@
 {
- "atualizadoEm": "2026-10-22T16:13:07Z",
+ "atualizadoEm": "2026-10-26T09:36:05Z",
  "escopo": "Vasco e Flamengo. Só jogos confirmados por 2+ fontes; rodadas finais do Brasileirão (datas ainda provisórias) ficam de fora e o app mantém o que já tem.",
  "jogos": [
-  {
-   "mandante": "Flamengo",
-   "visitante": "Estudiantes",
-   "data": "2026-10-22",
-   "hora": "21:30",
-   "competicao": "Libertadores",
-   "fase": "Semifinal · volta",
-   "estadio": "Maracanã",
-   "status": "ok",
-   "confianca": "alta",
-   "fonte": "https://diariodorio.com/esporte/flamengo/2026/10/01/agenda-de-jogos-do-flamengo-em-outubro-de-2026.html",
-   "observacao": ""
-  },
-  {
-   "mandante": "Vasco",
-   "visitante": "Corinthians",
-   "data": "2026-10-24",
-   "hora": "18:30",
-   "competicao": "Brasileirão Série A",
-   "fase": "32ª rodada",
-   "estadio": "São Januário",
-   "status": "ok",
-   "confianca": "alta",
-   "fonte": "https://diariodorio.com/esporte/vasco-da-gama/2026/10/01/agenda-de-jogos-do-vasco-em-outubro-de-2026.html",
-   "observacao": ""
-  },
   {
    "mandante": "Flamengo",
    "visitante": "Atlético-MG",
@@ -48,11 +22,11 @@
    "hora": "20:00",
    "competicao": "Brasileirão Série A",
    "fase": "33ª rodada",
-   "estadio": "",
+   "estadio": "Estádio Nilton Santos",
    "status": "ok",
-   "confianca": "media",
-   "fonte": "https://diariodorio.com/esporte/vasco-da-gama/2026/10/01/agenda-de-jogos-do-vasco-em-outubro-de-2026.html",
-   "observacao": "Local a definir. Fontes (Diário do Rio, Vavel) indicam 29/10 20h"
+   "confianca": "alta",
+   "fonte": "https://www.terra.com.br/esportes/flamengo/cbf-confirma-estadio-do-classico-entre-vasco-x-flamengo,a01f465321929d884caebebf8c756de4txd2g98x.html",
+   "observacao": "Mando do Vasco; CBF confirmou o Nilton Santos. Fontes (Terra, FutVasco, Placar) indicam 29/10 20h"
   },
   {
    "mandante": "Palmeiras",
@@ -74,7 +48,7 @@
    "hora": "19:30",
    "competicao": "Brasileirão Série A",
    "fase": "34ª rodada",
-   "estadio": "",
+   "estadio": "Maracanã",
    "status": "ok",
    "confianca": "alta",
    "fonte": "https://www.lance.com.br/flamengo/proximos-jogos-do-flamengo-veja-calendario-com-datas-e-horarios.html",
